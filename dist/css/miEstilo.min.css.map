@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AICA,AAAA,EAAE,AAAA,CACE,KAAK,CHFQ,OAAkB,CGG/B,UAAU,CHFI,OAAe,CGGhC,AACD,AAAA,CAAC,AAAA,CACG,UAAU,CAAE,OAAgB,CAC5B,MAAM,CAAC,GAAG,CACV,gBAAgB,CAAE,KAAK,CAC1B",
+    "sources": [
+        "../../styles/sass/miEstilo.scss",
+        "../../styles/sass/partial/base.scss",
+        "../../styles/sass/partial/reset.scss",
+        "../../styles/sass/vendor/slider.scss",
+        "../../styles/sass/modules/forms.scss",
+        "../../styles/sass/modules/contact.scss"
+    ],
+    "names": [],
+    "file": "miEstilo.min.css"
+}
