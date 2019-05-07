@@ -9,9 +9,7 @@ se utiliza la extencion de vscode:
 -live sass compiler, automaticamente cada ves que se cree o realize un cambio en sass crea o actualiza el archivo css,
   	    	     si se desea cambiar la ruta donde quede el archivo css creando un carpeta (.vscode) en raiz del
 	             proyecto y dentro un json asi:
-		
-	             {
-    "liveSassCompile.settings.formats":[
+{"liveSassCompile.settings.formats":[
        {
            "format": "expanded",
            "extensionName": ".css",
@@ -31,8 +29,9 @@ se utiliza la extencion de vscode:
    "liveSassCompile.settings.autoprefix": [
        "> 1%",
        "last 2 versions"
-   ]
-}
+]}
+
+
 
 repositrio de la extencion :https://github.com/ritwickdey/vscode-live-sass-compiler
 -para ver los cambios reflejados en el navegador se puede utilizar live server.
